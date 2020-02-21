@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # heading
 
-this a test page
+this a test page!
